@@ -1,4 +1,5 @@
 - Behavior
+
   - Common
     - Load pages via Ajax
       - <i>Avoid iframes.</i>
@@ -68,7 +69,9 @@
       - <i>When adding a media to a playlist, you can define the action to execute. You can for example clear the current playlist and start playing directly.</i> 
     - Playlist file type
       - <i>Type of generated playlist.</i>
+
 - Interface
+
   - Common
     - Language
     - Show donate button
@@ -97,7 +100,9 @@
     - Allow to show streaming agent
       - <i>The streaming agent is the software used to stream the media (browser, external software, etc.)</i>
     - Allow to show streaming date and time
+
 - Plugins
+
   - Google
     - Google api key
       - <i>Used for geo-location</i>
@@ -109,7 +114,9 @@
     - Username
       - <i><em>undefined</em></i>
     - Password
+
 - Administrators
+
   - Interface
     - Website title
     - URL for a custom logo
